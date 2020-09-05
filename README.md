@@ -1,4 +1,4 @@
-<h1>bb-3dme | Advanced 3d /me system with multiple languages support</h1>
+<h1>bb-3dme - Advanced 3d /me system with multiple languages support</h1>
 
 <h3>Description:</h3>
 <p>Heyo folks,<br />
@@ -14,7 +14,7 @@ anyways since I'm hosting an RP server for israeli community which their main la
 </ul>
 
 <p><a title="Youtube Showcase" href="https://streamable.com/1onui4" target="_blank" rel="noopener">Showcase</a> | <strong>Image:</strong></p>
-![unknown|690x388](upload://sx3i3DUPPhRzeWJnYkVzxS3ZZT4.jpeg) 
+https://cdn.discordapp.com/attachments/644631964774694942/751891369278177406/bb3dmefivem.png
 
 If you wanna update the script you are more than welcome, hmu and i'll update it on the github release.
 <p><strong><a title="GITHUB" href="https://github.com/BarBaroNN/bb-3dme" target="_blank" rel="noopener">GITHUB</a></strong></p>
